@@ -46,7 +46,7 @@
 
 
 
-* - Ramakant Shankar *
+*Ramakant Shankar*
 
 
 
