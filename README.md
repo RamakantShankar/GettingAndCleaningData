@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-This file is explains the working of  run_analysis.R
+## This file is explains the working of  run_analysis.R
 
 **Pre-Requisites:**
 1.Download the datasets from - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
